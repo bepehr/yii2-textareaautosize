@@ -27,7 +27,7 @@ class yii2textareaautosize extends InputWidget
     /**
      * @var array HTML attributes for the displayed input
      */
-    private $_displayOptions = [];
+    public $_displayOptions = [];
 
     /**
      * @inerhit doc
