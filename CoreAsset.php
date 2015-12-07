@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 
 /**
  * @link http://www.frenzel.net/
- * @author Philipp Frenzel <philipp@frenzel.net> 
+ * @author Philipp Frenzel <philipp@frenzel.net> x
  */
 
 class CoreAsset extends AssetBundle
