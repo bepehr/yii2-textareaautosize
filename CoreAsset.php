@@ -16,7 +16,7 @@ class CoreAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = '@bower/textarea-autosize/dist';
+    public $sourcePath = '@bower/bower-asset/textarea-autosize/dist';
 
     /**
      * [$css description]
