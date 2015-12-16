@@ -7,7 +7,8 @@ use yii\web\AssetBundle;
 
 /**
  * @link http://www.frenzel.net/
- * @author Philipp Frenzel <philipp@frenzel.net> x
+ * @author Philipp Frenzel <philipp@frenzel.net> 
+ *
  */
 
 class CoreAsset extends AssetBundle
@@ -16,7 +17,7 @@ class CoreAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = '@bower/bower-asset/textarea-autosize/dist';
+    public $sourcePath = '@bower/textarea-autosize/dist';
 
     /**
      * [$css description]
